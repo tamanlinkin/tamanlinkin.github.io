@@ -1,5 +1,5 @@
 /*===== Fonts =====*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 /*===== CSS =====*/
 :root{
@@ -44,7 +44,7 @@ body {
 
 /*===== LAYOUT =====*/
 .logo {
-	width: 150px;
+	width: 100px;
 }
 
 .bd-grid{
