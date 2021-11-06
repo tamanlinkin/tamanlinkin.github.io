@@ -1,3 +1,3 @@
 /*===== GSAP ANIMATION =====*/
 // HOME
-gsap.from('.home__button', {opacity: 0, duration: 0.2, delay:0.5, y: 30})
+gsap.from('.home__button', {opacity: 0, duration: 1, delay:1.6, y: 30})
