@@ -69,12 +69,18 @@ body {
   transition: all .2s ease-in-out
 }
 
-small_warning {
+.small__warning{
 	color: var(--font-color);
   	font-size: 0.7rem;
   	font-weight: 1000;
 	text-decoration: none;
 	transition: all .2s ease-in-out
+}
+
+.home__button:hover b{
+  background-color: var(--font-color);
+  color: var(--white-color);
+  transition: all .2s ease-in-out
 }
 
 h2 {
