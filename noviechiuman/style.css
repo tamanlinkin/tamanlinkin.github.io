@@ -119,3 +119,16 @@ html {
     font-size: 40px;
   }
 }
+
+.the-most {
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  max-width: 500px;
+  padding: 10px 10px;
+}
+.the-most img {
+  max-width: 100%;
+}
