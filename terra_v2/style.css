@@ -122,12 +122,11 @@ html {
 
 .the-most {
   position: fixed;
-  z-index: 1;
-  bottom: 0;
-  left: 0;
+  z-index: 100;
   width: 50vw;
-  max-width: 200px;
-  padding: 10px;
+  max-width: 125px;
+  padding: 20px;
+  text-align: center;
 }
 .the-most img {
   max-width: 100%;
