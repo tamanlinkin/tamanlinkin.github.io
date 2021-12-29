@@ -6,6 +6,11 @@ html {
   overflow: hidden;
 }
 
+b, b:hover, b:active, b:focus {
+  text-decoration: none;
+  outline: 0;
+}
+
 .slideshow {
   position: absolute;
   z-index: 1;
@@ -124,10 +129,11 @@ html {
   position: fixed;
   z-index: 1;
   bottom: 0;
-  left: 0;
+  left: 46%;
+  text-align: center;
   width: 100vw;
-  max-width: 500px;
-  padding: 10px 10px;
+  max-width: 100px;
+  padding: 30px 0;
 }
 .the-most img {
   max-width: 100%;
