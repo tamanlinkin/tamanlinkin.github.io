@@ -5,6 +5,8 @@
 	}
 	#Banner {
 		width: 100%;
+		overflow: hidden;
+	    position: relative;
 	}
 	header {
 		background: #EEE7D4; /* Old browsers */
@@ -31,7 +33,7 @@
 		transform: translate(-50%,-50%);
 		opacity: 1;
 		left: 50%;
-		text-align: left;
+		text-align: right;
 	}
 	#Banner a {
 	  color: #000;
@@ -50,6 +52,8 @@
 	#Banner {
 		width: 100%;
 		height: 60vh;
+		overflow: hidden;
+	    position: relative;
 	}
 	header {
 		background: #EEE7D4; /* Old browsers */
